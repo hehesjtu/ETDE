@@ -10,10 +10,10 @@ The candidate matching area is iteratively optimized within the set boundary, an
 ## File Structure
 ```
 ├── ETDE.p           # [Core Algorithm] Specific optimization and image processing functions
-├── main.m            # [Main Program] Running this program will result in the enhanced image
-├── data/             # [Input Folder] Stores the .png images to be processed
-├── results/           # [Output Folder] Stores the enhanced images,you need to add folders by yourself.
-├── Requirements.txt  # Environment dependency instructions
+├── main.m           # [Main Program] Running this program will result in the enhanced image
+├── data/            # [Input Folder] Stores the .png images to be processed
+├── results/         # [Output Folder] Stores the enhanced images,you need to add folders by yourself.
+├── Requirements.txt # Environment dependency instructions
 ```
 ## System Requirements
 The code has been tested and verified on the following platform:
